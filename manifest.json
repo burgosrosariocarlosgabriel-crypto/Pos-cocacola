@@ -1,0 +1,10 @@
+{
+  "name": "STOCK POS - Cafetería / Colmado",
+  "short_name": "STOCK",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#0b63f6",
+  "lang": "es-DO",
+  "description": "Punto de venta, inventario, caja, compras, gastos y ganancias para una cafetería o colmado."
+}
